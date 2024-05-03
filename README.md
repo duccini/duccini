@@ -4,6 +4,8 @@ I'm a Software Engineer focusing on React.js and Next.js at the moment.
 
 My first contact with code was at Electrical Engineering College. A few years later I started learning Web development.
 
+I worked with PHP/WordPress for a few years and currently work 100% with JavaScript as a Freelancer.
+
 As a Freelance Developer in many projects, I have to develop the Design and Backend of the projects, which gave me a good foundation in Node.js and Figma.
 
 ## 📦 Toolbox
