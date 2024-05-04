@@ -16,7 +16,7 @@ As a Freelance Developer in many projects, I have to develop the Design and Back
 
 **Version Control:** `Git`
 
-**Cloud:** `AWS`
+**Cloud Services:** `AWS`
 
 **Testing:** `Cypress` `Playwright` `Postman` `Insomnia`
 
